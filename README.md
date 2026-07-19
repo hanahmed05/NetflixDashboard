@@ -34,7 +34,6 @@ NetflixDashboard/
 ├── netflix_titles.csv      # Dataset
 ├── requirements.txt        # Python dependencies
 ├── README.md                # This file
-└── Dashboard_Project.ipynb # Assignment write-up notebook
 ```
 
 ## Running Locally
