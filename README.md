@@ -2,8 +2,10 @@
 
 An interactive dashboard exploring the Netflix titles dataset, built with [Dash](https://dash.plotly.com/) (Plotly). Filter by content type, country, and release year range to see four linked visualizations — a release trend line chart, a movies-vs-TV-shows pie chart, a top-genres bar chart, and a movie duration scatter plot — update together in real time.
 
-**Live dashboard:** _add your hosted link here once deployed_
-**Video walkthrough:** _add your video link here_
+**Live dashboard:** https://netflix-dashboard-6wrp.onrender.com/
+**Video walkthrough:** _add your video link here once recorded_
+
+> Note: this app is hosted on Render's free tier, which spins down after periods of inactivity. The first load after idle time may take 30-50 seconds to wake up — please be patient on the initial visit.
 
 ## Features
 
